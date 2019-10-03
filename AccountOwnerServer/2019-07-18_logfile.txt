@@ -1,0 +1,20 @@
+2019-07-18 17:04:09.8004 INFO Returnrd all Owner from Database
+2019-07-18 17:04:09.8004 INFO Returnrd all Owner from Database
+2019-07-18 17:04:09.8004 INFO Returnrd all Owner from Database
+2019-07-18 17:04:09.8004 INFO Returnrd all Owner from Database
+2019-07-18 17:04:09.8004 INFO Returnrd all Owner from Database
+2019-07-18 17:04:21.6820 INFO Returnrd all Owner from Database
+2019-07-18 17:04:25.1783 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-18 17:04:26.0547 INFO Returnrd all Owner from Database
+2019-07-18 17:04:28.9075 INFO Returnrd all Owner from Database
+2019-07-18 17:04:39.8362 INFO Returnrd all Owner from Database
+2019-07-18 17:04:47.2367 INFO Returnrd all Owner from Database
+2019-07-18 17:04:53.4324 INFO Returnrd all Owner from Database
+2019-07-18 17:05:27.3780 INFO Returnrd all Owner from Database
+2019-07-18 17:05:30.1499 INFO Returnrd all Owner from Database
+2019-07-18 17:06:15.2319 INFO Returnrd all Owner from Database
+2019-07-18 17:06:18.4516 INFO Returnrd all Owner from Database
+2019-07-18 17:06:20.9282 INFO Returnrd all Owner from Database
+2019-07-18 17:06:23.1601 INFO Returnrd all Owner from Database
+2019-07-18 17:09:44.6034 INFO Returnrd all Owner from Database
+2019-07-18 17:55:42.4286 INFO Returnrd all Owner from Database

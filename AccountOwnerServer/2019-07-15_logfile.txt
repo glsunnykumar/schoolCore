@@ -1,0 +1,7 @@
+2019-07-15 10:34:04.5005 INFO Returnrd all Owner from Database
+2019-07-15 10:34:04.5005 INFO Returnrd all Owner from Database
+2019-07-15 10:41:33.1214 INFO Returnrd all Owner from Database
+2019-07-15 10:42:51.8449 INFO Returnrd all Owner from Database
+2019-07-15 10:46:09.9628 INFO Returnrd all Owner from Database
+2019-07-15 11:01:12.7058 INFO Returnrd all Owner from Database
+2019-07-15 11:01:19.2759 INFO Returnrd all Owner from Database

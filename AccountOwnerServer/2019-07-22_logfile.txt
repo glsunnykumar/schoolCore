@@ -1,0 +1,17 @@
+2019-07-22 18:12:30.6168 INFO Returnrd all Owner from Database
+2019-07-22 18:12:30.6168 INFO Returnrd all Owner from Database
+2019-07-22 18:12:30.6168 INFO Returnrd all Owner from Database
+2019-07-22 18:13:54.7824 INFO Returnrd all Owner from Database
+2019-07-22 18:38:16.4701 INFO Returnrd all Owner from Database
+2019-07-22 18:38:24.4701 INFO Returnrd all Owner from Database
+2019-07-22 18:38:32.7859 INFO Returnrd all Owner from Database
+2019-07-22 18:38:39.4375 INFO Returnrd all Owner from Database
+2019-07-22 18:38:42.8658 INFO Returnrd all Owner from Database
+2019-07-22 18:38:44.4794 INFO Returnrd all Owner from Database
+2019-07-22 18:38:48.7544 INFO Returnrd all Owner from Database
+2019-07-22 18:38:49.9122 INFO Returnrd all Owner from Database
+2019-07-22 18:38:53.4836 INFO Returnrd all Owner from Database
+2019-07-22 18:38:59.6364 INFO Returnrd all Owner from Database
+2019-07-22 18:39:01.8288 INFO Returnrd all Owner from Database
+2019-07-22 18:39:03.5224 INFO Returnrd all Owner from Database
+2019-07-22 18:39:06.8563 INFO Returnrd all Owner from Database

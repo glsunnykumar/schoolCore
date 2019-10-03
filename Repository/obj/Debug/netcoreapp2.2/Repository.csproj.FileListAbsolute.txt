@@ -1,0 +1,14 @@
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+G:\AngularExample\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+G:\AngularExample\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

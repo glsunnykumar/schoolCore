@@ -1,0 +1,14 @@
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.deps.json
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.dll
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.pdb
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.dll
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.dll
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.pdb
+G:\AngularExample\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.pdb
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csprojAssemblyReference.cache
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CoreCompileInputs.cache
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfoInputs.cache
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfo.cs
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CopyComplete
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.dll
+G:\AngularExample\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.pdb

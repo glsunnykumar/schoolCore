@@ -1,0 +1,79 @@
+2019-07-17 11:15:57.7087 INFO Returnrd all Owner from Database
+2019-07-17 12:18:25.4906 INFO Returnrd all Owner from Database
+2019-07-17 12:18:25.4906 INFO Returnrd all Owner from Database
+2019-07-17 12:18:25.4906 INFO Returnrd all Owner from Database
+2019-07-17 12:18:25.4906 INFO Returnrd all Owner from Database
+2019-07-17 12:18:25.4906 INFO Returnrd all Owner from Database
+2019-07-17 12:19:48.7095 INFO Returnrd all Owner from Database
+2019-07-17 12:49:47.2424 INFO Returnrd all Owner from Database
+2019-07-17 12:49:53.1282 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 12:50:22.4108 INFO Returnrd all Owner from Database
+2019-07-17 12:50:24.5513 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 12:51:07.0763 INFO Returnrd all Owner from Database
+2019-07-17 12:51:10.2660 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 12:53:02.5132 INFO Returnrd all Owner from Database
+2019-07-17 12:55:20.6437 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 12:56:00.2088 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 12:56:59.0833 INFO Returnrd all Owner from Database
+2019-07-17 12:58:15.8817 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:03:27.5521 INFO Returnrd all Owner from Database
+2019-07-17 13:03:29.7225 INFO Returnrd all Owner from Database
+2019-07-17 13:04:07.2472 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:05:41.8349 INFO Returnrd all Owner from Database
+2019-07-17 13:05:46.7790 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:05:59.5915 INFO Returnrd all Owner from Database
+2019-07-17 13:06:00.9845 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:06:03.7086 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:06:06.4481 INFO Returnrd all Owner from Database
+2019-07-17 13:06:09.2679 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-07-17 13:06:39.0884 INFO Returnrd all Owner from Database
+2019-07-17 13:06:41.3582 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:13:10.5749 INFO Returnrd all Owner from Database
+2019-07-17 13:13:23.9221 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:13:48.9647 INFO Returnrd all Owner from Database
+2019-07-17 13:13:53.4962 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:14:35.3833 INFO Returnrd all Owner from Database
+2019-07-17 13:14:39.8862 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:16:11.0933 INFO Returnrd all Owner from Database
+2019-07-17 13:16:14.1548 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:18:28.9874 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:18:55.3868 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:19:24.4010 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:20:14.5710 INFO Returnrd all Owner from Database
+2019-07-17 13:20:16.3562 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:20:30.6114 INFO Returnrd all Owner from Database
+2019-07-17 13:20:31.9856 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:20:56.1802 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 13:24:11.5592 INFO Returnrd all Owner from Database
+2019-07-17 13:24:13.8796 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 13:24:47.2524 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 13:28:15.7675 INFO Returnrd all Owner from Database
+2019-07-17 13:28:20.1778 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 13:29:13.1429 INFO Returnrd all Owner from Database
+2019-07-17 13:29:15.2125 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 15:11:23.8416 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 15:14:06.9661 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 15:15:21.9236 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-17 15:15:30.7169 INFO Returnrd all Owner from Database
+2019-07-17 15:15:32.5611 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 15:15:47.7383 INFO Returnrd all Owner from Database
+2019-07-17 15:15:49.0295 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-07-17 15:26:03.5183 INFO Returnrd all Owner from Database
+2019-07-17 15:26:05.8937 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 16:33:10.0273 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-07-17 16:48:18.8362 INFO Returnrd all Owner from Database
+2019-07-17 16:48:21.4230 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 16:50:56.0517 INFO Returnrd all Owner from Database
+2019-07-17 16:51:00.0451 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 16:52:15.0134 INFO Returnrd all Owner from Database
+2019-07-17 16:52:23.3920 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-07-17 16:55:37.2613 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 16:55:45.9308 INFO Returnrd all Owner from Database
+2019-07-17 16:55:47.6847 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 16:56:07.5662 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 16:56:10.4776 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-07-17 17:46:24.3991 INFO Returnrd all Owner from Database
+2019-07-17 17:47:22.8093 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-07-17 17:55:11.6482 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-07-17 17:55:21.1689 INFO Returnrd all Owner from Database
+2019-07-17 17:55:24.2121 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620

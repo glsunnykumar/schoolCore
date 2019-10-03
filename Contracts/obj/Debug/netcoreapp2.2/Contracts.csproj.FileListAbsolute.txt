@@ -1,0 +1,12 @@
+G:\AngularExample\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+G:\AngularExample\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+G:\AngularExample\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+G:\AngularExample\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.dll
+G:\AngularExample\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.pdb
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csprojAssemblyReference.cache
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CoreCompileInputs.cache
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CopyComplete
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+G:\AngularExample\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb
